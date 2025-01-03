@@ -1,4 +1,4 @@
-# Kickstarter Clustering Analysis
+# Kickstarter: Identifying factors contribute to a successful project through K-Means Clustering
 
 ## Overview
 This project analyzes Kickstarter projects using K-Means clustering to identify factors contributing to success. The analysis provides insights into cluster-specific characteristics and offers recommendations for project creators and Kickstarter.
