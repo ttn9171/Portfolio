@@ -19,7 +19,13 @@ The analysis focuses on tree-based models (Random Forest and Gradient Boosting) 
     - Bean.Type: Type of cocoa beans used.
     - Broad.Bean.Origin and Specific.Bean.Origin: Cocoa bean origins.
     - Company.Maker.if.known: Chocolate manufacturer.
- 
+
+## Files
+
+- chocolate-ratings.R: R script for preprocessing, feature engineering, and model training. 
+- report_summary.pdf: Detailed project report summarizing the methodology, results, and insights.
+- README.md: High level summary of the project.
+
 ## Data Preprocessing
 1. Target Variable Transformation: Converted numerical Rating into a binary Rating Category for classification.
 2. Reclassification of Low-Frequency Categories: Rare categories in Company.Location, Bean.Type, and Broad.Bean.Origin were grouped into an "Other" category to reduce sparsity.
