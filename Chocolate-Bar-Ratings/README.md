@@ -23,7 +23,7 @@ The analysis focuses on tree-based models (Random Forest and Gradient Boosting) 
 ## Files
 
 - chocolate-ratings.R: R script for preprocessing, feature engineering, and model training. 
-- report_summary.pdf: Detailed project report summarizing the methodology, results, and insights.
+- report-summary.pdf: Detailed project report summarizing the methodology, results, and insights.
 - README.md: High level summary of the project.
 - Chocolate bar ratings.csv: the dataset used for the classification task. 
 
