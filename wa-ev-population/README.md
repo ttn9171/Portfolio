@@ -23,7 +23,7 @@ The goal of this project is to provide insights into the current trends and dist
 
 ## Files: 
 - WA_EV_Dashboard.pbix: the Power Bi file 
-- Electric_Vehicle_Population_Data.csv: the dataset used
+- Electric_Vehicle_Population_Data.zip: the zipped file of the dataset used
 
 ## Resources: 
 - Dataset: Electric Vehicle Population on Kaggle
