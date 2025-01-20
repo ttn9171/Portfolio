@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Thao!
 
-Welcome to my GitHub portfolio! I’m an aspiring Data Analyst with a focus on solving real-world problems using data-driven solutions.
+Welcome to my GitHub portfolio! I’m an aspiring Data Analyst with a focus on solving real-world problems using data driven solutions, engaging storytelling, and  impactful visualizations.
 
-This portfolio includes projects that I have developed to apply and expand my skills in data analysis, visualization, and business intelligence. 
+This portfolio includes projects that I have developed to apply and expand my skills in data analysis, visualizations, and business intelligence. 
 Each project demonstrates my ability to solve real-world problems through analysis, data cleaning and modeling, with the help of analytical and visualization tools.
 
 ## 🌟 About Me
@@ -14,7 +14,7 @@ Each project demonstrates my ability to solve real-world problems through analys
 ### **Languages**
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - R Programming  
-- SQL (MySQL)  
+- SQL  
 
 ### **Data Visualization**
 - Power BI    
