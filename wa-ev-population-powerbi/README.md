@@ -34,7 +34,7 @@ This Power BI dashboard provides insights into electric vehicle (EV) registratio
 - The number of EV chargers has grown steadily since 2010, with a sharp increase after 2020.
 
 ## Files: 
-- WA_EV_Dashboard.pbix: the Power Bi file
+- WA_EV_Overview.pbix: the Power Bi file
 - Link to the dashboard: https://app.powerbi.com/view?r=eyJrIjoiYzM5OTY5NWItMjFjNi00NjE4LTkzMWQtM2YzODM5ZTQ4ODAzIiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9
 - Electric_Vehicle_Population_Data.zip: EV Registration Data
 - alt_fuel_stations.csv: EV Charging Infrastructure Data
