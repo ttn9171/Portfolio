@@ -33,7 +33,7 @@ The analysis revealed six distinct clusters with varying success rates and chara
 - Cluster 5: 0.0% success rate: Projects have high goals and focus on niche categories with low success rates.
 - Cluster 6: 98.3% success rate: Projects have moderate goals, focus on moderately popular categories with high success rate.
 
-Key Insights:
+## Key Insights:
 - Realistic Goals: Projects with lower or moderate goals consistently perform better.
 - Category Popularity: Moderately popular and high-success-rate categories yield better outcomes, while niche categories require extra effort to succeed.
 - Campaign Quality: Strong visuals, detailed descriptions, and good engagement boost success rates.
