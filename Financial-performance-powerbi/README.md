@@ -1,6 +1,8 @@
 ## Overview
 This project presents a comprehensive Power BI dashboard designed to analyze the financial performance of a fictional company, Plant Co. The report delivers actionable insights through dynamic visualizations, tracking key business metrics such as Sales, Quantity, and Gross Profit on a Year-to-Date (YTD) and Prior Year-to-Date (PYTD) basis.
 
+You can view the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYTE4OWUyYTgtN2FkZi00NGZmLTk5NjYtNmQ4ZjIyMTE0MjQxIiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9)
+
 <img width="1246" alt="image" src="https://github.com/user-attachments/assets/e16cc9dd-6f72-4c2a-a8ad-ba8160434603" />
 
 
@@ -21,7 +23,6 @@ This project presents a comprehensive Power BI dashboard designed to analyze the
 
 ## Files
 * Dashboard: PlantCo Financial Dashboard.pbix
-* Link to the dashboard: https://app.powerbi.com/view?r=eyJrIjoiYTE4OWUyYTgtN2FkZi00NGZmLTk5NjYtNmQ4ZjIyMTE0MjQxIiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9
 * Dataset: Plant_DTS.xls
 
 **Note: This dashboard is a fictional representation and is intended for educational purposes as part of a professional portfolio.**
