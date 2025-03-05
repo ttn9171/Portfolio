@@ -3,6 +3,8 @@
 ## Overview 
 This Power BI dashboard provides insights into electric vehicle (EV) registrations and charging infrastructure in Washington State. The dashboard is divided into two sections:
 
+You can view the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYzM5OTY5NWItMjFjNi00NjE4LTkzMWQtM2YzODM5ZTQ4ODAzIiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9)
+
 - EV Registration Overview – Analysis of EV adoption trends, top counties, and vehicle models.
 <img width="991" alt="image" src="https://github.com/user-attachments/assets/78cf09ca-08f5-4642-b65c-9f31861ac79c" />
 
@@ -35,7 +37,6 @@ This Power BI dashboard provides insights into electric vehicle (EV) registratio
 
 ## Files: 
 - WA_EV_Overview.pbix: the Power Bi file
-- Link to the dashboard: https://app.powerbi.com/view?r=eyJrIjoiYzM5OTY5NWItMjFjNi00NjE4LTkzMWQtM2YzODM5ZTQ4ODAzIiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9
 - Electric_Vehicle_Population_Data.zip: EV Registration Data
 - alt_fuel_stations.csv: EV Charging Infrastructure Data
 
